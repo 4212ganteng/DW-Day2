@@ -28,6 +28,7 @@ form div{
     border-radius: 8px;
     border: 1px solid #dbdbdb;
     box-shadow: #d6dadf;
+    box-sizing: border-box;
  }
  button{
     background-color: #111727;
